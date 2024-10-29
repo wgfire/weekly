@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/5090)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/5253)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索
 
@@ -27,8 +27,15 @@ $ grep -nri css docs | cat --number
 ```
 ## 2024
 
+**十月**
+
+- 第 322 期：[内容行业的内幕](docs/issue-322.md)
+- 第 321 期：[傅盛回忆录](docs/issue-321.md)
+- 第 320 期：[乒乓仓](docs/issue-320.md)
+
 **九月**
 
+- 第 319 期：[如何拍出爆款视频](docs/issue-319.md)
 - 第 318 期：[创业咖啡馆的记忆](docs/issue-318.md)
 - 第 317 期：[驴子，老虎和狮子的寓言](docs/issue-317.md)
 - 第 316 期：[你一生的故事](docs/issue-316.md)
